@@ -1,0 +1,9 @@
+{
+  "name": "hussein/todo-list",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": { "Hussein\\TodoList\\": "" },
+    "files": [ "registration.php" ]
+  } 
+}
